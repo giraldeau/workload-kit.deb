@@ -1,0 +1,17 @@
+Source: workload-kit
+Section: utils
+Priority: extra
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Build-Depends: debhelper (>= 8.1.3), liblttng-ust-dev
+Standards-Version: 3.9.3
+Homepage: http://lttng.org/
+X-Python-Version: >= 2.7
+Vcs-Git: git://github.com/giraldeau/workload-kit.git
+
+Package: workload-kit
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${python:Depends}, cpuburn, netcat
+Recommends: lttng-modules-dkms, lttng-tools, babeltrace
+Description: Workload-kit utility programs
+ This package provides scripts and executables to generate traces with specific
+ features.
