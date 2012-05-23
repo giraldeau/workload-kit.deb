@@ -1,3 +1,9 @@
+workload-kit (0.1.1-0ubuntu1~oneiric4) precise; urgency=low
+
+  * Fix pkg-config dependency
+
+ -- Francis Giraldeau <francis.giraldeau@gmail.com>  Wed, 23 May 2012 17:39:14 +0200
+
 workload-kit (0.1.1-0ubuntu1~oneiric3) precise; urgency=low
 
   * Initial release
