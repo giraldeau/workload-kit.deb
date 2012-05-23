@@ -1,6 +1,6 @@
-workload-kit (0.1.0-0ubuntu1~oneiric1) oneiric; urgency=low
+workload-kit (0.1.1-0ubuntu1~oneiric3) precise; urgency=low
 
   * Initial release
 
- -- Francis Giraldeau <francis.giraldeau@gmail.com>  Tue, 22 May 2012 16:47:52 +0200
+ -- Francis Giraldeau <francis.giraldeau@gmail.com>  Wed, 23 May 2012 16:09:01 +0200
 
