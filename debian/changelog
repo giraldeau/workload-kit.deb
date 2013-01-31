@@ -1,3 +1,9 @@
+workload-kit (0.1.10-0ubuntu1~quantal1) quantal; urgency=low
+
+  * New upstream release
+
+ -- Francis Giraldeau <francis@dyn37.dorsal.polymtl.ca>  Thu, 31 Jan 2013 14:44:33 -0500
+
 workload-kit (0.1.5-0ubuntu1~precise1) precise; urgency=low
 
   * New upstream release
