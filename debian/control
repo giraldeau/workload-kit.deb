@@ -2,8 +2,8 @@ Source: workload-kit
 Section: utils
 Priority: extra
 Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
-Build-Depends: debhelper (>= 9), pkg-config, liblttng-ust-dev
-Standards-Version: 3.9.3
+Build-Depends: debhelper (>= 9), python-support, pkg-config, liblttng-ust-dev, libsensors4-dev
+Standards-Version: 3.9.4
 Homepage: http://lttng.org/
 X-Python-Version: >= 2.7
 Vcs-Git: git://github.com/giraldeau/workload-kit.git
